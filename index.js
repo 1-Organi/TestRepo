@@ -1,7 +1,7 @@
 // Das ist mein Workspace!
 function milda(param)
 {
-    return "ich" + param +"!"
+    return "mmm" + param +"!"
 }
 
 console.log(milda("as"));
