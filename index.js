@@ -1,10 +1,7 @@
 // Das ist mein Workspace!
-function milda(param)
-{
-    return "mmm" + param +"!"
+function test(name) {
+    return name;
 }
+console.log(test("milda"));
 
-console.log(milda("as"));
 
-
-//  bandau dar karta
