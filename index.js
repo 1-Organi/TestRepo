@@ -5,3 +5,6 @@ function milda(param)
 }
 
 console.log(milda("as"));
+
+
+//  bandau dar karta
